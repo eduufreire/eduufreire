@@ -33,7 +33,7 @@
 
 <div align="center">
   <h1> <b> ⚙️ GitHub Analytics </b> </h1>
-  <a href="https://github.com/DuS0usa">
+  <a href="https://github.com/eduufreire">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduufreire&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduufreire&layout=compact&langs_count=7&theme=radical"/></a>
 </div>
