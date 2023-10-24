@@ -3,8 +3,8 @@
 
   <h1 align="left">Oi, Tudo bem? Eu sou o <i>Eduardo Freire</i> 👨‍💻</h1>
   <div align="left">
-    <p> ▸ 👨‍🎓 Formado em <b>Técnico em Desenvolvimento de Sistemas</b>. </p>
-    <p> ▸ 📌 Atualmente estou cursando <b>Ciências da Computação</b> na SPTech School. </p>
+    <p> ▸ 👨‍🎓 Formado em <b>Técnico em Desenvolvimento de Sistemas</b>. (ETEC Guaianases)</p>
+    <p> ▸ 📌 Atualmente estou cursando <b>Ciências da Computação</b> (SPTech School)</p>
     <p> ▸ 📌Quero me tornar um Desenvolvedor <b>Backend</b>. </p>
     <p> ▸ 💻 Meios de contato: </p>
      <div align="left">
@@ -18,18 +18,14 @@
 <br>
 
 <div align="center">
+  
   <h1> <b> ⚒ Tech Skills </b> </h1>
-  <img align="center" alt="html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="css3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="vscode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,github,idea,java,linux,mysql,nodejs,php,py,r&perline=5)](https://skillicons.dev)
+  
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   <h1> <b> ⚙️ GitHub Analytics </b> </h1>
