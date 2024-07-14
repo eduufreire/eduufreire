@@ -1,7 +1,7 @@
 <div>
   <h1 align="left">Oi, Tudo bem? Eu sou o <i>Eduardo Freire</i> 👨‍💻</h1>
   <div align="left">
-      <img align="right" alt="Eduardo" height="250em" width="250em" src="https://media.discordapp.net/attachments/1012820065177043015/1241790039025913938/avatar_1.png?ex=664b7a98&is=664a2918&hm=a9e2a19010c572d840609d30be8c0eabc71a152350bbec6dfa335fe921579d04&=&format=webp&quality=lossless&width=450&height=450">
+      <img align="right" alt="Eduardo" height="250em" width="250em" src="https://i.gifer.com/origin/81/819e6ef27c2f13b211813f61ee68b201_w200.gif">
     <p> ▸ 👨‍🎓 Formado em <b>Técnico em Desenvolvimento de Sistemas</b>. (ETEC Guaianases)</p>
     <p> ▸ 📌 Atualmente estou cursando <b>Ciências da Computação</b> (SPTech School)</p>
     <p> ▸ 📌Quero me tornar um Desenvolvedor <b>Backend</b>. </p>
@@ -20,7 +20,7 @@
   
   <h1> <b> ⚒ Tech Skills </b> </h1>
   
-  [![My Skills](https://skillicons.dev/icons?i=js,typescript,figma,git,github,idea,java,spring,mysql,aws,nodejs,docker,php,py,r&perline=5)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,typescript,git,github,idea,java,spring,mysql,aws,nodejs,docker,php,py)](https://skillicons.dev)
   
 </div>
 
